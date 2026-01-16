@@ -341,4 +341,71 @@ nav .menu a{
   margin-bottom: 16px;
 }
 
+footer{
+  
+  background-color: #0A0826;
+  margin-top: 100px;
+   /* margin: 0 auto; */
+   /* justify-content: center; */
+   align-items: center;
+
+  
+.footer {
+  width: 242px;
+  margin: 0 auto;
+  justify-content: center;
+
+}
+.logos{
+  width: 242px;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+}
+
+.content {
+  width: 262px;
+   max-width: 1440px; */
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+  
+}
+.content h3{
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  padding-top: 50px;
+}
+.content .p-1{
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  color: white;
+  /* padding-top: 50px; */
+}
+.content .p-2{
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: white;
+  padding-bottom: 17px;
+}
+
+.footer .logos{
+  width: 176px;
+  
+}
+
+.footer .logos img{
+  
+  padding-right: 9px;
+  margin-bottom: 50px;
+}
+
+
+
 
