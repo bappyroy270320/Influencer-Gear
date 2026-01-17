@@ -6,11 +6,6 @@
   font-style: normal;
 }
 
-.poppins-extralight {
-  font-family: "Poppins", sans-serif;
-  font-weight: 200;
-  font-style: normal;
-}
 
 .poppins-light {
   font-family: "Poppins", sans-serif;
@@ -60,11 +55,6 @@
   font-style: italic;
 }
 
-.poppins-extralight-italic {
-  font-family: "Poppins", sans-serif;
-  font-weight: 200;
-  font-style: italic;
-}
 
 .poppins-light-italic {
   font-family: "Poppins", sans-serif;
@@ -368,7 +358,7 @@ footer{
 
 .content {
   width: 262px;
-   max-width: 1440px; */
+   max-width: 1440px; 
    align-items: center;
    justify-content: center;
    text-align: center;
@@ -402,7 +392,7 @@ footer{
 
 .footer .logos img{
   
-  padding-right: 9px;
+  padding-right: 4px;
   margin-bottom: 50px;
 }
 
